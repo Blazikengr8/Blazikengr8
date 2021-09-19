@@ -1,16 +1,51 @@
-### Hi there 👋
+<h2 title="hehehe"> Hey 👋, I'm Abhigyan!</h2>
 
-<!--
-**Blazikengr8/Blazikengr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/abhigyan-singh-9a00b0192/">
+  <img align="left" alt="Abhigyan's LinkedIn"  src="https://img.icons8.com/color/48/000000/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/singh_abhigyan1414/">
+  <img align="left" alt="Abhigyan's Instagram"  src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+</a>
+<a href="https://twitter.com/Abhi1414singh">
+  <img align="left" alt="Abhigyan's Twitter"  src="https://img.icons8.com/color/48/000000/twitter.png" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br />
+<br />
+
+
+ 
+
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=400 />
+
+**About Me!**
+
+- 👨🏽‍💻 I’m currently a CSE Undergrad student at SRM Institute And Technology
+- 🌱 I’m currently exploring Data Structures And App Development. 
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [abhi.1414singh@gmail.com](mailto:abhi.1414singh@gmail.com).
+
+
+
+**Languages and Tools:**  
+* Flutter
+* CPP
+* Java
+* Python
+* C
+* Firebase
+* Dart 
+<br>
+
+**Statistics:**
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=Blazikengr8&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Abhigyan's Github Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Blazikengr8&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Abhigyan's Github Stats" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazikengr8&count_private=true&theme=shades-of-purple&icon_color=fad000&layout=compact" alt="Abhigyan's Github Stats" />
+<br />
+<br />
+![](https://komarev.com/ghpvc/?username=Blazikengr8&color=fad000)
