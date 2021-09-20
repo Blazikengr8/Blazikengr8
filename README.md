@@ -23,7 +23,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at SRM Institute And Technology
+- 👨🏽‍💻 I’m currently a CSE Undergrad student at SRM Institute Of Technology
 - 🌱 I’m currently exploring Data Structures And App Development. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [abhi.1414singh@gmail.com](mailto:abhi.1414singh@gmail.com).
