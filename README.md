@@ -45,7 +45,7 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=Blazikengr8&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Abhigyan's Github Stats">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Blazikengr8&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
-<img align="center right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazikengr8&count_private=true&theme=shades-of-purple&icon_color=fad000&layout=compact" alt="Abhigyan's Github Stats" />
+<!-- <img align="center right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazikengr8&count_private=true&theme=shades-of-purple&icon_color=fad000&layout=compact" alt="Abhigyan's Github Stats" /> -->
 
 <br />
 <br />
